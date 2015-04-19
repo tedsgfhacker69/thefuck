@@ -70,12 +70,6 @@ REPL-y 0.3.1
 ...
 ```
 
-## Requirements
-
-- pip
-- python
-- python-dev
-
 ## Installation
 
 Install `The Fuck` with `pip`:
@@ -107,13 +101,6 @@ end
 ```
 
 Changes will available only in a new shell session.
-
-
-## Update
-
-```bash
-sudo pip install thefuck --upgrade
-```
 
 ## How it works
 
